@@ -14,3 +14,4 @@ Insights from the report:
 As far as net sales it had overall exponential growth from 124.8% in 20vs19 to 204.5% in 21vs20
 3) In market performance when compared to it's target , the company is lagging behind it's targets in all the markets .INDIA and USA being a red zone for the company in terms of performance.
 4)In customer and net sales performance ,the company's net sales grew by 304.5% in 2021 compared to 2020 . Amazon(82.1M), AtliQ e-store(53M), AtliQ exclusive(61.1M) , Sage(20.7M) and Flipkart(19.3) being the major contributors.
+# link to post engagement:https://www.linkedin.com/posts/shivakumar-angadi_finance-and-sales-analysis-activity-7197907878651809792-au-_?utm_source=share&utm_medium=member_desktop
